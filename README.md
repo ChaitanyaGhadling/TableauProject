@@ -4,3 +4,6 @@
 -	Established linkages between 4 NYC open datasets, totaling over 5.5M rows, based on common attributes such as age, gender, and race.
 -	Conducted data pre-processing, data linking and initial exploratory data analysis (EDA) using pandas and matplotlib.  
 -	Generated multiple visualizations and interactive dashboards on Tableau drawing insights from the data.
+
+  ![image](https://github.com/ChaitanyaGhadling/TableauProject/assets/55136558/b7abdd9a-10f5-429b-9ac7-93c674548906)
+
